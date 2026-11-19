@@ -2,7 +2,7 @@
  "atms": {
   "17": {
    "name": "M1, Aleja Pokoju 67, 31-580 Kraków",
-   "pln": 2850.0
+   "pln": 2750.0
   },
   "319671": {
    "name": "Grzegórzecka 7, 31-531 Kraków",
@@ -10,7 +10,7 @@
   },
   "319733": {
    "name": "Osiedle Ogrodowe 11, 31-916 Kraków",
-   "pln": 11450.0
+   "pln": 2450.0
   },
   "319782": {
    "name": "Najświętszej Marii Panny 15, 33-100 Tarnów",
@@ -22,7 +22,7 @@
   },
   "319867": {
    "name": "Studencka 10, 31-116 Kraków",
-   "pln": 5400.0
+   "pln": 4550.0
   },
   "320062": {
    "name": "Bronowicka 39, 33-332 Kraków",
