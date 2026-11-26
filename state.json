@@ -2,7 +2,7 @@
  "atms": {
   "17": {
    "name": "M1, Aleja Pokoju 67, 31-580 Kraków",
-   "pln": 0.0
+   "pln": 30250.0
   },
   "319671": {
    "name": "Grzegórzecka 7, 31-531 Kraków",
@@ -22,7 +22,7 @@
   },
   "319867": {
    "name": "Studencka 10, 31-116 Kraków",
-   "pln": 20900.0
+   "pln": 15450.0
   },
   "320062": {
    "name": "Bronowicka 39, 33-332 Kraków",
